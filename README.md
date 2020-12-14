@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Piotr, a full stack developer from Poland. 🇵🇱
+
+- 🔭 My favorite technologies: **.NET Core**, **React**, **ASP.NET Core**
+- 📫 How to reach me: email me at [piotr@romanowski.me](mailto:piotr@romanowski.me)
+
+
+## Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v0idzz&count_private=true&show_icons=true)
+
 <!--
 **v0idzz/v0idzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
