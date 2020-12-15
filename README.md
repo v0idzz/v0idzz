@@ -7,7 +7,8 @@ I'm Piotr, a full stack developer from Poland. 🇵🇱
 
 
 ## Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v0idzz&count_private=true&show_icons=true)
+![Piotr's github stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=v0idzz)
+
 
 <!--
 **v0idzz/v0idzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
